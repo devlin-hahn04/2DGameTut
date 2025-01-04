@@ -19,9 +19,7 @@ public class Main{
         window.setVisible(true);
 
         gamePanel.StartGameThread();
-
         
-
     }
 
 

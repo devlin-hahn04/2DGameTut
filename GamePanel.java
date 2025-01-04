@@ -59,7 +59,7 @@ public class GamePanel extends JPanel implements Runnable{
         while(GameThread != null){
 
             //Update information like character positions 
-            update();
+            player.update();
 
 
             //Draw the screen with updated info
